@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AshtonRichards
-- 👀 I’m interested in Project management, Tech sales and marketing, and using technology to solve problems ...
-- 🌱 I’m currently learning SEO, Javascript, FIGMA and Object Oriented Programming...
-- 💞️ I’m looking to collaborate on Email markteing campaigns, UX Design and Frontend developement...
-- 📫 How to reach me richardsonashton734@gmail.com...
+ Hi, I’m Ashton, an IT Professional
+
+ Information Technology Projects:
+- Virtual Box
+- Automation tools with Python 
+- Microsoft Azure
+
+📫 How to reach me richardsonashton734@gmail.com...
 
 <!---
 AshtonRichards/AshtonRichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
