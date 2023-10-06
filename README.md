@@ -11,8 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Python(Automating read/write configuration via SSH)</b>
   - [Virtual Box: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  - [Python: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
+  - [Arista, Linux, Windows OS: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [puTTY: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
 📫 How to reach me richardsonashton734@gmail.com...
 
 <!---
