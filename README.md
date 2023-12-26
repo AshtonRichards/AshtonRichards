@@ -8,7 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AshtonRichards/ticket-lifecycle)
 - <b>Virtual Box</b>
   - [Configuring On-premises Active Directory within Virtual Box (https://github.com/AshtonRichards/config-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AshtonRichards/config-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols] 
+ (https://github.com/AshtonRichards/config-ad)
 - <b>Aumtomating IT Task (using Python to read/write configuration via SSH)</b>
   - [Virtual Box: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
   - [puTTY: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
