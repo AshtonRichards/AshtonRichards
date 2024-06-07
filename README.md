@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 - Websites
-  - [Marketing Blog] (https://github.com/AshtonRichards/osticket-prereqs)
+  - [Marketing Blog](https://github.com/AshtonRichards/osticket-prereqs)
   - [Portfolio Website] (https://github.com/AshtonRichards/post-install-config)
   - [Portrait Photography Website] (https://github.com/AshtonRichards/ticket-lifecycle)
 
