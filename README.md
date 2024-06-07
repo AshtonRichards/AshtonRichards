@@ -7,6 +7,7 @@ osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/AshtonRichards/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/AshtonRichards/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AshtonRichards/ticket-lifecycle)
+
 Virtual Box
 
   - [Configuring On-premises Active Directory within Virtual Box](https://github.com/AshtonRichards/config-ad)
@@ -15,8 +16,11 @@ Virtual Box
   - [Virtual Box: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
   - [puTTY: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Automated read/write SSH app](https://github.com/joshmadakorcc/azure-network-protocols)  
+
 <h2>👨‍💻 Personal Projects:</h2>
+
 Websites
+
   - [MY BAD WEBSITE](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Marketing Blog](https://github.com/AshtonRichards/osticket-prereqs)
   - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
