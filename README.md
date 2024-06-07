@@ -15,13 +15,12 @@
   - [Automated read/write SSH app](https://github.com/joshmadakorcc/azure-network-protocols)  
 
 <h2>👨‍💻 Personal Projects:</h2>
-- <b>Websites</b>
+> Websites
   - [MY BAD WEBSITE](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Marketing Blog](https://github.com/AshtonRichards/osticket-prereqs)
   - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
   - [Portrait Photography Website](https://github.com/AshtonRichards/ticket-lifecycle)
   
-
 <h2>👨‍💻 MD Blog:</h2>
 
 📫 How to reach me: richardsonashton734@gmail.com...
