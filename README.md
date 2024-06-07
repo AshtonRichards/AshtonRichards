@@ -15,6 +15,11 @@
   - [Automated read/write SSH app](https://github.com/joshmadakorcc/azure-network-protocols)  
 
 <h2>👨‍💻 Personal Projects:</h2>
+<b>Websites</b>
+  - [Marketing Blog](https://github.com/AshtonRichards/osticket-prereqs)
+  - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
+  - [Portrait Photography Website](https://github.com/AshtonRichards/ticket-lifecycle)
+  
 
 <h2>👨‍💻 MD Blog:</h2>
 
