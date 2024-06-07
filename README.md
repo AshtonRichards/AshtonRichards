@@ -15,15 +15,14 @@
   - [Automated read/write SSH app](https://github.com/joshmadakorcc/azure-network-protocols)  
 
 <h2>👨‍💻 Personal Projects:</h2>
-<b>Websites</b>
-  - [Marketing Blog](https://github.com/AshtonRichards/osticket-prereqs)
-  - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
-  - [Portrait Photography Website](https://github.com/AshtonRichards/ticket-lifecycle)
-  
+- <b>Websites</b>
+  - [Marketing Blog] (https://github.com/AshtonRichards/osticket-prereqs)
+  - [Portfolio Website] (https://github.com/AshtonRichards/post-install-config)
+  - [Portrait Photography Website] (https://github.com/AshtonRichards/ticket-lifecycle)
 
 <h2>👨‍💻 MD Blog:</h2>
 
-📫 How to reach me richardsonashton734@gmail.com...
+📫 How to reach me: richardsonashton734@gmail.com...
 
 <!---
 AshtonRichards/AshtonRichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
