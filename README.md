@@ -14,6 +14,10 @@
   - [puTTY: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Automated read/write SSH app](https://github.com/joshmadakorcc/azure-network-protocols)  
 
+<h2>👨‍💻 Personal Projects:</h2>
+
+<h2>👨‍💻 MD Blog:</h2>
+
 📫 How to reach me richardsonashton734@gmail.com...
 
 <!---
