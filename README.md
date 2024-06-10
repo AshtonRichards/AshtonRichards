@@ -31,13 +31,8 @@ Websites
 <h2>👨‍💻 Blog:</h2>
 
 - [Tech Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-- [Notes on Networking and Cloud]()
 - [My Notebook]()
 - [My Codebook]()
-- [Notes About Mark Down](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-- [Notes About HTML & CSS](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-- [Notes About Python](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-- [Notes on Machine Learning]()
 - [Resorces](https://github.com/AshtonRichards/Resources)
 
 📫 How to reach me: richardsonashton734@gmail.com...
