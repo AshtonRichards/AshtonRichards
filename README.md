@@ -23,7 +23,6 @@ Virtual Box
 
 Websites
 
-  - [MY BAD WEBSITE](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
   - [Portrait Photography Website](https://github.com/AshtonRichards/ticket-lifecycle)
   - [Cleaning Website]()
