@@ -28,12 +28,14 @@ Websites
   - [Cleaning Website]()
   - [Financial Consulting Website]()
   
-<h2>👨‍💻 MD Blog:</h2>
+<h2>👨‍💻 Blog:</h2>
 
-- [Tech Journey](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+- [Tech Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+- [Notes on Networking and Cloud]()
 - [Notes About Mark Down](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
 - [Notes About HTML & CSS](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
 - [Notes About Python](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+- [Notes on Machine Learning]()
 - [Resorces](https://github.com/AshtonRichards/Resources)
 
 📫 How to reach me: richardsonashton734@gmail.com...
