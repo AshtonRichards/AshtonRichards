@@ -31,7 +31,7 @@ Websites
 <h2>👨‍💻 Blog:</h2>
 
 - [Tech Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-- [My Notebook]()
+- [My Notebook](https://github.com/AshtonRichards/Notes)
 - [My Codebook]()
 - [Resorces](https://github.com/AshtonRichards/Resources)
 
