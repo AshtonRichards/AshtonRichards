@@ -23,8 +23,8 @@ Virtual Box
 
 Websites
 
-  - [Portfolio Website](https://github.com/AshtonRichards/post-install-config)
-  - [Portrait Photography Website](https://github.com/AshtonRichards/ticket-lifecycle)
+  - [Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+  - [Photography Website]()
   - [Cleaning Website]()
   - [Financial Consulting Website]()
   
