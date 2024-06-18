@@ -2,18 +2,22 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-OsTicket (Help Desk Ticketing System)
+## OsTicket (Help Desk Ticketing System)
 
   - [osTicket: Prerequisites and Installation](https://github.com/AshtonRichards/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/AshtonRichards/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AshtonRichards/ticket-lifecycle)
 
-Virtual Box
+## Network Attached Storage 
 
-  - [Configuring On-premises Active Directory within Virtual Box](https://github.com/AshtonRichards/config-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AshtonRichards/config-ad)
+  - [NAS Media Server](https://github.com/AshtonRichards/config-ad)
+  - [NAS Cloud Storage](https://github.com/AshtonRichards/config-ad)
 
-<b>Aumtomating IT Task (using Python to read/write configuration via SSH)</b>
+## HomeLab
+
+
+
+## Aumtomating IT Task (using Python to read/write configuration via SSH)
 
   - [Virtual Box: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
   - [puTTY: Installation and Prequiste](https://github.com/joshmadakorcc/azure-network-protocols)
@@ -23,12 +27,13 @@ Virtual Box
 
 Websites
 
-  - [Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+  - [Personal Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+  - [Tech Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Photography Website]()
   - [Cleaning Website]()
   - [Financial Consulting Website]()
   
-<h2>👨‍💻 Blog:</h2>
+<h2>👨‍💻 :</h2>
 
 - [Tech Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
 - [My Notebook](https://github.com/AshtonRichards/Notes)
