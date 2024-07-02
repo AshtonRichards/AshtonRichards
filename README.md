@@ -21,7 +21,8 @@
 
 ## Social Work Resources
 
-  - [Careers In Government](https://github.com/AshtonRichards/Career-in-Government-Jobboards/tree/main)  
+  - [Careers In Government](https://github.com/AshtonRichards/Career-in-Government-Jobboards/tree/main)
+  - [Free Job Training]()  
 
 ## 👨‍💻 Notes & Resources:
 
