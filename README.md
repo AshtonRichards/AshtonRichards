@@ -1,25 +1,27 @@
 <h1>Hi, I'm Ashton, an <a href="https://www.linkedin.com/in/ashton-najee-mckeith-richardson-65782b22a/"> Educator and Tech Enthusiast</a>☺</h1>
 
-<h2>👨‍💻 Personal Information Technology Projects:</h2>
+## 👨‍💻 Personal Information Technology Projects:
 
 
-## Network Attached Storage 
+### Network Attached Storage 
 
   - [NAS Media Server](https://github.com/AshtonRichards/config-ad)
   - [NAS Cloud Storage](https://github.com/AshtonRichards/config-ad)
 
 
-<h2>👨‍💻 Personal Web Projects:</h2>
+## 👨‍💻 Personal Web Projects:
 
-Websites
+### Websites
 
   - [Personal Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-  - [Tech & Marketing Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+  - [Tech & Marketing Journal](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Photography Website]()
   - [Cleaning Website]()
   - [Financial Consulting Website]()
+
+## Social Work Resources 
   
-<h2>👨‍💻 Notes & Resources:</h2>
+## 👨‍💻 Notes & Resources:
 
 - [My Notebook](https://github.com/AshtonRichards/Notes)
 - [My Codebook]()
