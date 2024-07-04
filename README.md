@@ -15,15 +15,14 @@
 
   - [Personal Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
   - [Tech & Marketing Journal](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-  - [Photography Website]()
-  - [Cleaning Website]()
-  - [Financial Consulting Website]()
+  - [School & Life Survival Guide Blog]()
+
 
 ## Social Work Resources
 
   - [Careers In Government](https://github.com/AshtonRichards/Career-in-Government-Jobboards/tree/main)
   - [Free Job Training](https://github.com/AshtonRichards/Free-JT)
-  -  
+   
 
 ## 👨‍💻 Notes & Resources:
 
