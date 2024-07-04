@@ -20,11 +20,10 @@
 
 ## Social Work Resources
 
-  - [Careers In Government](https://github.com/AshtonRichards/Career-in-Government-Jobboards/tree/main)
-  - [Free Job Training](https://github.com/AshtonRichards/Free-JT)
-   
+  - [Advocacy Resources](https://github.com/AshtonRichards/Advocacy-Resources)
+  
 
-## 👨‍💻 Notes & Resources:
+## 👨‍💻 Tech Notes & Resources:
 
 - [My Notebook](https://github.com/AshtonRichards/Notes)
 - [My Codebook]()
