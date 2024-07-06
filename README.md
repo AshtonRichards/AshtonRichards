@@ -14,7 +14,7 @@
 ### Websites
 
   - [Personal Blog](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
-  - [Tech & Marketing Journal](https://github.com/AshtonRichards/AshtonRichards/edit/main/README.md)
+  - [Tech & Trouble Shooting Journal](https://ashtonrichardson.com/)
   - [School & Life Survival Guide Blog]()
 
 
