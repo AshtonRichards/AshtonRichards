@@ -13,8 +13,7 @@
 ### Python 
 
 - [Reading and Writing Devices Via SSH](https://github.com/AshtonRichards/RW-SSH/tree/main)
-- [Subnet Calculator]
-
+- [Subnet Calculator](https://github.com/AshtonRichards/sub-calc)
 
 ## 👨‍💻 Personal Web Development Projects:
 
