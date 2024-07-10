@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashton, an <a href="https://www.linkedin.com/in/ashton-najee-mckeith-richardson-65782b22a/"> Developer, IT Professional and Social Advocacy </a>☺</h1>
+<h1>Hi, I'm Ashton, an <a href="https://www.linkedin.com/in/ashton-najee-mckeith-richardson-65782b22a/"> Developer, IT Professional and Social Advocate </a>☺</h1>
 
 ## 👨‍💻 Personal Information Technology Projects:
 
