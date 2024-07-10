@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashton, an <a href="https://www.linkedin.com/in/ashton-najee-mckeith-richardson-65782b22a/"> Creative, Social Advocate and Tech Enthusiast</a>☺</h1>
+<h1>Hi, I'm Ashton, an <a href="https://www.linkedin.com/in/ashton-najee-mckeith-richardson-65782b22a/"> Developer, IT Professional and Social Advocacy </a>☺</h1>
 
 ## 👨‍💻 Personal Information Technology Projects:
 
@@ -8,8 +8,15 @@
   - [NAS Media Server](https://github.com/AshtonRichards/config-ad)
   - [NAS Cloud Storage](https://github.com/AshtonRichards/config-ad)
 
+## Software Development Projects: 
 
-## 👨‍💻 Personal Web Projects:
+### Python 
+
+- [Reading and Writing Devices Via SSH]
+- [Subnet Calculator]
+
+
+## 👨‍💻 Personal Web Development Projects:
 
 ### Websites
 
